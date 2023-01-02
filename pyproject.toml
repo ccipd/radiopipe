@@ -28,7 +28,7 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["pkg"]
+packages = ["radiopipe"]
 
 [tool.isort]
 profile = "black"

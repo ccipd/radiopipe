@@ -11,7 +11,7 @@ PY :=  $(VIRTUAL_ENV)/bin/python
 include .env.dev
 export
 
-SRC := pkg
+SRC := radiopipe
 DIST := dist
 BUILD := build
 
